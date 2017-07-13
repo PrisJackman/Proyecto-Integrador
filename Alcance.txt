@@ -1,0 +1,10 @@
+Diseñar un sistema web para el control de inventario, actualización y control de almacenamiento para posteriormente realizar ventas y llevar un registro cuya finalidad será consultar un avance en un determinado tiempo establecido.
+
+
+Diseñar un sistema web para el minisuper "Rivas" que incluye :
+	*Registro de usuarios, productos y ventas
+	*Control de inventario
+	*Apertura y cierre de turnos
+	*Cortes de caja
+	*Reportes de Ventas y de inventario
+Con este proyecto se busca optimizar el proceso de ventas y la entrada y salida de mercancia de proveedores de manera organizada, estable y eficiente.
