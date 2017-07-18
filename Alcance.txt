@@ -1,3 +1,0 @@
-
-
-Este proyecto pretende mejorar la manera en que se trabaja con los clientes y proveedores en el minisuper "Rivas", su objetivo principal es desarrollar un sistema web que controle el Registro de usuarios, productos y ventas,Control de inventario, Apertura y cierre de turnos, Cortes de caja y los reportes de Ventas y de inventario; Con la finalidad de optimizar el proceso de ventas y la entrada y salida de mercancia de proveedores de manera organizada, estable y eficiente.
